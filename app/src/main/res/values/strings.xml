@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TooLoud</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_volume_up">Volume Up</string>
+    <string name="btn_volume_down">Volume Down</string>
+    <string name="title_activity_join">JoinActivity</string>
+    <string name="title_activity_volume">Volume</string>
+</resources>
